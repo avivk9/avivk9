@@ -9,11 +9,7 @@
 
 - ⚡ What I like to do: **I like so much reading, hiking, sleeping...and coding of course**
 
-- 🧑‍💻 Check my TryHackMe stats
-
-![alt text](https://tryhackme-badges.s3.amazonaws.com/avivk9.png)
-
-- :octocat: Other GitHub stats:
+- :octocat: GitHub stats:
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=avivk9&theme=react&show_icons=true&include_all_commits=true" />
