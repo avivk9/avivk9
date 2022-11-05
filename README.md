@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviv <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate B.sc Student from Israel</h3>
 
-- 🔭 I’m currently working on my **Texas-Holdem project**
+- 🔭 I’m currently working on my **Cyber Learning with TryHackMe**
 
 - 🌱 I’m currently learning my **Last B.sc Year**
 
@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Check my TryHackMe stats
 
-![alt text](https://tryhackme-badges.s3.amazonaws.com/avivk9.png?raw=true)
+![alt text](https://tryhackme-badges.s3.amazonaws.com/avivk9.png)
 
 - :octocat: Other GitHub stats:
 
