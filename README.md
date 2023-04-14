@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviv <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate B.sc Student from Israel</h3>
+<h3 align="center">A passionate B.Sc Student and Software Developer from Israel</h3>
 
 - 🔭 I’m currently working at **Carteav**
 
