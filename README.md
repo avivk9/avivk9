@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aviv <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate B.sc Student from Israel</h3>
 
-- 🔭 I’m currently working on my **Cyber Learning with TryHackMe**
+- 🔭 I’m currently working at **Carteav**
 
-- 🌱 I’m currently learning my **Last B.sc Year**
+- 🌱 I’m on my **Last Computer Science B.sc Year**
 
 - 📫 How to reach me: **avivkeinan1@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, hiking, sleeping...and coding of course**
+- ⚡ What I like to do: **I like so much reading, hiking, training...and coding of course**
 
 - :octocat: GitHub stats:
 
