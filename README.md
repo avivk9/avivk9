@@ -7,6 +7,8 @@
 
 - ⚡ What I like to do: **I like so much reading, hiking, training...and coding of course**
 
+- ![](https://komarev.com/ghpvc/?username=avivk9&color=blue)
+
 - :octocat: GitHub stats:
 
 <p align= "center">
