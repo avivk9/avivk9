@@ -15,6 +15,7 @@
 
 - 🔭 Currently **vibing**
 - 🔐 Digging into **cybersecurity** and how systems break (so I can help build ones that don't)
+- 🥷🏼 Watch my portfolio at https://avivk9.github.io
 - 🌐 Fascinated by **networks** — packets, protocols, and everything in between
 - 🐍 Reach for **Python** for pretty much everything
 - ⚡ Outside of code: reading, hiking, and training
@@ -24,7 +25,7 @@
 
 ### 🛠️ Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
